@@ -5,6 +5,7 @@ title: LocalFreeWeb
 categories: blog
 author: Joseph Tanigawa
 ---
+## Example
 
 ## Bringing the Web to those who can’t find it
 
