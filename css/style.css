@@ -63,7 +63,7 @@ table h3 {
 
 /* Declare heights because of positioning of img element */
 .carousel .item {
-  height: 500px;
+  height: 550px;
 }
 .carousel-inner > .item > img {
   position: absolute;
