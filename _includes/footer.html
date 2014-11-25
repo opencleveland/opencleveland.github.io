@@ -1,0 +1,11 @@
+ 	<!-- FOOTER -->
+  <div class="footer">
+    <p class="pull-right">© Code for San Francisco 2014 | <a href="https://github.com/sfbrigade/codeforsanfrancisco.org"><i class="icon-github"></i> Pull requests welcome!</a></p>
+  </div>
+</div><!-- /.container -->
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+{% for script in page.scripts %}
+  <script src="{{ site.baseurl }}/js/{{script}}"></script>
+{% endfor %}
