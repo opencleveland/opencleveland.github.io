@@ -1,7 +1,7 @@
 permalink: /:categories/:title/
 markdown: kramdown
 prose:
-  media: 'images'
+  media: 'media'
   rooturl: '_posts'
   ignore:
     - index.md
@@ -15,6 +15,25 @@ prose:
         field:
           element: "hidden"
           value: "blog"
+      - name: "categories"
+        label: "category"
+        field:
+          element: "select"
+          options:
+            - name: "blog"
+              value: "blog"
+            - name: "projects"
+              value: "projects"
+            - name: "updates"
+              value: "updates"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "author"
+        field:
+          element: "text"
+          label: "author"
       - name: "tags"
         field:
           element: "multiselect"

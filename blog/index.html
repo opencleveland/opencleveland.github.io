@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 'Blog'
-excerpt: 'A placeholder for the blog, need something to say here'
+title: 'Our Stories'
+excerpt: "Open Cleveland's recent developments"
 ---
 <div class="row main-row">
   <div class="col-md-8">
@@ -9,7 +9,7 @@ excerpt: 'A placeholder for the blog, need something to say here'
     <article>
       <header>
         <h2 style="display: inline-block">
-          <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
+          <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
           <small>by {{ post.author }}</small>
         </h2>
         <h4 class="pull-right"
@@ -29,7 +29,7 @@ excerpt: 'A placeholder for the blog, need something to say here'
 <div class="col-md-4">
   <aside class="panel panel-default">
     <header class="panel-heading">
-      <h3>Previous posts</h3>
+      <h3>Other Stories</h3>
     </header>
     <ul class="list-unstyled panel-body">
     {% for post in site.categories.blog limit 15 %}

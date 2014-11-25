@@ -1,18 +1,22 @@
-# OpenCleveland.Github.io
+# CodeForSanFrancisco.org
 
-The website for the Open Cleveland Brigade
+The website for the Code for San Francisco Brigade
 
-### Forked from [Code for San Franciso Repo](https://github.com/sfbrigade/sfbrigade.github.io) ([Website](http://codeforsanfrancisco.org/))
+### Goals
+1. Explain what Code for San Francisco is and the type of work we do.
+2. To celebrate our events, projects, and discussions!
+4. Encourage current and new members to participate with clear ways to get involved.
+5. To have this site be easily reused by other Brigades just starting out.
 
 ## Blogging Instructions
 If you are tasked with writing posts for the site blog, follow these instructions:
 
 What you'll need:
-- a github account with access to the opencleveland github organization.
-(ask @skorasaurus for this)
+- a github account with access to the sfbrigade github organization.
+(ask somebody at san francisco brigade for this)
 
 To create a new post:
-- go to http://prose.io/#sfbrigade/sfbrigade.github.io/tree/master/_posts/blog `//fix link`
+- go to http://prose.io/#sfbrigade/sfbrigade.github.io/tree/master/_posts/blog
 - if the page asks you to "authorize with github", click the authorize button
 note: ensure you are signed in with your github account
 - create a new blog post by clicking the "new file" button
@@ -38,7 +42,7 @@ Built using [Jekyll](http://jekyllrb.com/), [Bootstrap](http://getbootstrap.com/
 
 ### <a name="issues"></a>Submitting an Issue
 
-We use [GitHub Issues](https://github.com/) `//fix link` to track bugs and features. We've included several of our open GitHub Issues right on our homepage using the [Civic Tech Issue Finder](http://www.codeforamerica.org/geeks/civicissues).
+We use [GitHub Issues](https://github.com/sfbrigade/sfbrigade.github.io/issues) to track bugs and features. We've included several of our open GitHub Issues right on our homepage using the [Civic Tech Issue Finder](http://www.codeforamerica.org/geeks/civicissues).
 
 
 ### Running the Site Locally on Your Computer
@@ -63,7 +67,7 @@ You can use the nifty [Jekit](https://jekit.codeforamerica.org/) app to preview 
 
 To do this, fork this repo, and commit your changes on a branch to your fork. You can then preview what your changes look like by navigating to:
 
-https://jekit.codeforamerica.org/USERNAME/sfbrigade.github.io/BRANCHNAME/ `fix link`
+https://jekit.codeforamerica.org/USERNAME/sfbrigade.github.io/BRANCHNAME/
 
 For a basic example of its usage, if GitHub user **@lolname** has made changes to the projects page on their fork (on the `master` branch), they can preview their changes using Jekit by going to:
 
