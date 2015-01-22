@@ -16,6 +16,9 @@ table h3 {
   margin-top: 5px;
 }
 
+.bold {
+  font: bold;
+}
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
