@@ -17,7 +17,7 @@ table h3 {
 }
 
 .bold {
-  font: bold;
+  font-weight: bold;
 }
 
 /* CUSTOMIZE THE NAVBAR
