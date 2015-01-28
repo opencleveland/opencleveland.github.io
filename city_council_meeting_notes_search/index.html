@@ -1,0 +1,50 @@
+---
+layout: default
+title: 'Open Cleveland | Cleveland City Council meeting notes search'
+published: true
+---
+
+<div id="maincontent">
+    <h1>Cleveland City Council meeting notes search</h1>
+    <p>Use the form below to search the meeting notes of Cleveland's City Council</p>
+    <form id="city_council_meeting_notes_search" onSubmit="return search_google()">action="http://google.com"
+	  <label for="search_terms">Enter your search terms here:</label>
+      <input type="text" id="search_terms">
+	  <input type="submit" value="Search">
+	  <label for="year_dropdown">Year:</label>
+      <select id="year_dropdown">
+      </select>
+    </form>
+	<p id="test_output"></p>
+</div>
+
+<script type="text/javascript">
+  window.onload = function create_year_dropdown() {
+    var node = document.getElementById("year_dropdown");
+	node.innerHTML = "<option value=All>All</option>"
+	current_year = new Date().getFullYear();
+	i = 1996;
+	while (i <= current_year) {
+      text_to_append = '<option value="' + i + '">' + i + '</option>';
+	  node.innerHTML += text_to_append;
+	  i++;
+	}
+  }
+  
+  function search_google() {
+    URL = "http://google.com/search?";
+	
+	if (document.getElementById("search_terms").value != "") {
+	  URL += "q=";
+	  URL += document.getElementById("search_terms").value;
+	  URL += "+site%3Awww.dln.com%2Fcr%2F";
+	  if ( document.getElementById("year_dropdown").value != "All" ) {
+	    URL += "index" + document.getElementById("year_dropdown").value;
+	  }
+	  window.location.href = URL;
+	}
+	
+	return false;
+  }
+  
+</script>
