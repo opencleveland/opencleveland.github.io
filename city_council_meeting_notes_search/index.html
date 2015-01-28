@@ -39,7 +39,11 @@ published: true
 	  URL += document.getElementById("search_terms").value;
 	  URL += "+site%3Awww.dln.com%2Fcr%2F";
 	  if ( document.getElementById("year_dropdown").value != "All" ) {
-	    URL += "index" + document.getElementById("year_dropdown").value;
+	    year_to_append = document.getElementById("year_dropdown").value;
+		if (year_to_append < 2000) {
+		  year_to_append -= 1900;
+		}
+	    URL += "index" + year_to_append;
 	  }
 	  window.location.href = URL;
 	}
