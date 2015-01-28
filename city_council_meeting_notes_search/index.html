@@ -6,8 +6,8 @@ published: true
 
 <div id="maincontent">
     <h1>Cleveland City Council meeting notes search</h1>
-    <p>Use the form below to search the meeting notes of Cleveland's City Council</p>
-    <form id="city_council_meeting_notes_search" onSubmit="return search_google()">action="http://google.com"
+    <p>Use the form below to search the meeting notes from <a href="http://www.clevelandcitycouncil.org/the-city-record/">Cleveland City Council</a></p>
+    <form id="city_council_meeting_notes_search" onSubmit="return search_google()">
 	  <label for="search_terms">Enter your search terms here:</label>
       <input type="text" id="search_terms">
 	  <input type="submit" value="Search">
@@ -44,7 +44,7 @@ published: true
 	  window.location.href = URL;
 	}
 	
-	return false;
+	return true;
   }
   
 </script>
