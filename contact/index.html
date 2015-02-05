@@ -29,5 +29,9 @@ published: true
 </div>
 
 <script>
-  function submit_form() { document.forms["submit_project_idea_form"].submit(); }
+  function submit_form() {
+    if (document.getElementById("additional_data") == "") {
+      document.forms["submit_project_idea_form"].submit();
+	}
+  }
 </script>
