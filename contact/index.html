@@ -17,13 +17,18 @@ published: true
     <h1>Suggest a project idea</h1>
       <p>Do you have an idea that open data or civic hackers could help wth? Enter it below!</p>
       <!-- <form id="submit_project_idea_form" action="http://formspree.io/open.cleveland@gmail.com" method="POST"> -->
+	  <form id="submit_project_idea_form" action="http://formspree.io/paul.koepke@gmail.com" method="POST">
         Your email:<br />
         <input type="email" name="Submitter's Email" align="top" style="width: 80%; max-width: 20em"><br />
         Your project idea:<br />
         <textarea name="body" align="top" style="width: 80%; height: 20em"></textarea><br /><br />
         <input type="text" id="additional_data" class="hidden">
 		<input type="submit" value="Send"><br /><br />
+		<a href="javascript: submit_form">Send</a>
       </form>
-	  
   </div>
 </div>
+
+<script>
+  function submit_form() { document.forms["submit_project_idea_form"].submit(); }
+</script>
