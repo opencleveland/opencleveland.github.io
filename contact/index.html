@@ -24,14 +24,12 @@ published: true
         <input type="text" id="additional_data" class="hidden">
       </form>
 	  <a href="javascript: submit_form()"><button>Send</button></a><br /><br />
-	  <p id="output"></p>
   </div>
 </div>
 
 <script id="submit_form_script">
   function submit_form() {
     additional_data_value = document.getElementById("additional_data").value
-	document.getElementById("output").innerHTML += additional_data_value
     if ( additional_data_value === "") {
 	  document.getElementById("submit_project_idea_form").setAttribute("action", "http://formspree.io/Open.Cleveland@gmail.com")
 	  document.getElementById("submit_project_idea_form").setAttribute("method", "POST")
