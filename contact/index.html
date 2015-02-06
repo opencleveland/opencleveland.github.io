@@ -20,8 +20,9 @@ published: true
         Your email:<br />
         <input type="email" name="Submitter's Email" align="top" style="width: 80%; max-width: 20em"><br />
         Your project idea:<br />
-        <textarea name="body" align="top" style="width: 80%; height: 20em"></textarea><br /><br />
-        <input type="text" id="additional_data" class="hidden">
+        <!-- The "suggestion_content" textarea is actually for catching spam - it's hidden from users in CSS, but bots are likely to fill it in. If it's filled in, the JS below does nothing. -->
+        <textarea name="suggestion_content" id="content" class="hidden"></textarea>
+        <textarea name="your_suggestion" align="top" style="width: 80%; height: 20em"></textarea><br /><br />
       </form>
 	  <a href="javascript: submit_form()"><button>Send</button></a><br /><br />
   </div>
@@ -29,7 +30,7 @@ published: true
 
 <script id="submit_form_script">
   function submit_form() {
-    additional_data_value = document.getElementById("additional_data").value
+    additional_data_value = document.getElementById("suggestion_content").value
     if ( additional_data_value === "") {
 	  document.getElementById("submit_project_idea_form").setAttribute("action", "http://formspree.io/Open.Cleveland@gmail.com")
 	  document.getElementById("submit_project_idea_form").setAttribute("method", "POST")
