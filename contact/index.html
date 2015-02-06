@@ -16,21 +16,28 @@ published: true
 		<p>Look at (and maybe lend a hand?) with our <a href="https://github.com/opencleveland">code</a>.</p>
     <h1>Suggest a project idea</h1>
       <p>Do you have an idea that open data or civic hackers could help wth? Enter it below!</p>
-	  <form id="submit_project_idea_form" action="http://formspree.io/paul.koepke@gmail.com" method="POST">
+	  <form id="submit_project_idea_form">
         Your email:<br />
         <input type="email" name="Submitter's Email" align="top" style="width: 80%; max-width: 20em"><br />
         Your project idea:<br />
         <textarea name="body" align="top" style="width: 80%; height: 20em"></textarea><br /><br />
         <input type="text" id="additional_data" class="hidden">
-		<a href="javascript: submit_form()"><button>Send</button></a><br /><br />
       </form>
+	  <a href="javascript: submit_form()"><button>Send</button></a><br /><br />
+	  <p id="output"></p>
   </div>
 </div>
 
-<script>
+<script id="submit_form_script">
   function submit_form() {
-    if (document.getElementById("additional_data").value === "") {
+    additional_data_value = document.getElementById("additional_data").value
+	document.getElementById("output").innerHTML += additional_data_value
+    if ( additional_data_value === "") {
+	  document.getElementById("submit_project_idea_form").setAttribute("action", "http://formspree.io/Open.Cleveland@gmail.com")
+	  document.getElementById("submit_project_idea_form").setAttribute("method", "POST")
       document.forms["submit_project_idea_form"].submit();
+	  document.getElementById("submit_project_idea_form").setAttribute("action", "")
+	  document.getElementById("submit_project_idea_form").setAttribute("method", "")
 	}
   }
 </script>
