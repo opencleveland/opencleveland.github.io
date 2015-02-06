@@ -30,8 +30,7 @@ published: true
 
 <script id="submit_form_script">
   function submit_form() {
-    additional_data_value = document.getElementById("suggestion_content").value
-    if ( additional_data_value === "") {
+    if ( document.getElementById("suggestion_content").value === Null) {
 	  document.getElementById("submit_project_idea_form").setAttribute("action", "http://formspree.io/Open.Cleveland@gmail.com")
 	  document.getElementById("submit_project_idea_form").setAttribute("method", "POST")
       document.forms["submit_project_idea_form"].submit();
