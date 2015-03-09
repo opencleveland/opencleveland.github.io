@@ -17,7 +17,7 @@ To create a new post:
 note: ensure you are signed in with your github account
 - create a new blog post by clicking the "new file" button
 - you'll be taken to a page where you can create your new blog post
-- once you're done writing your blog post using markdown, set published to true in the metadata to make the file appear on the blog. 
+- once you're done writing your blog post using markdown, change "published: false" to "published: true" in the metadata to make the file appear on the blog. 
 
 There are various controls for formatting text, links and creating images:
 
