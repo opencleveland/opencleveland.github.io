@@ -12,11 +12,14 @@ What you'll need:
 (ask @skorasaurus for this)
 
 To create a new post:
-- go to http://prose.io/#sfbrigade/sfbrigade.github.io/tree/master/_posts/blog `//fix link`
+- go to http://prose.io/#opencleveland/opencleveland.github.io/tree/master/_posts/blog
 - if the page asks you to "authorize with github", click the authorize button
 note: ensure you are signed in with your github account
 - create a new blog post by clicking the "new file" button
-there are various controls for formatting text, links and creating images
+- you'll be taken to a page where you can create your new blog post
+- once you're done writing your blog post using markdown, set published to true in the metadata to make the file appear on the blog. 
+
+There are various controls for formatting text, links and creating images:
 
 To add an image:
 - click on the add image button.
@@ -29,6 +32,10 @@ to
 this is changing the path of the image to be images/blog/ rather then _posts/blog.
 !this is important, as the image will not work if this is not done!
 - add in alt text for the image. alt text is important for user's that browse by websites using text readers.
+ 
+Blog details
+- the blog master page itself is in /blog/. This page grabs Markdown files (.md) from /_posts/blog/ and turns them into blog posts based on the filename.
+- each blog post gets its own file in /_posts/blog/. The filename should begin with the blog entry's date in YYY-MM-DD format. The prose.io page linked above automatically does this.
 
 ### Tech
 
