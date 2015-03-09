@@ -1,7 +1,8 @@
 ---
 layout: blog
-published: false
+published: true
 categories: blog
+title: Untitled
 ---
 
 ## Hello World!
