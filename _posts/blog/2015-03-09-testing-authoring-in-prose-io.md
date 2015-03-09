@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: Testing authoring in Prose io
 categories: blog
 ---
