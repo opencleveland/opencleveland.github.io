@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: February / March 2015 update
 categories: blog
 ---
