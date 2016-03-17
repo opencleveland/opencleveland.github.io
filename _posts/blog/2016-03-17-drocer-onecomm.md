@@ -14,7 +14,7 @@ Open Cleveland is excited to announce that we have been named the winner in OneC
 An overview of drocer is available at: 
 [https://docs.google.com/presentation/d/1bWo-yJD3pR07EaR75p-ksKdHUyiPcyAmGf3h7L9i4Ps/edit#slide=id.p](https://docs.google.com/presentation/d/1bWo-yJD3pR07EaR75p-ksKdHUyiPcyAmGf3h7L9i4Ps/edit#slide=id.p)
 
-In recent months, we've met with community partners including the Cleveland Public Library, the City Council's Clerk of Courts, and the City's Law Department to get a handle on what it will take to bring this tool to the greatest number of Clevelanders, understand what features are needed and how they can get involved, and enabling Clevelanders find out what City Council did. 
+In recent months, we've met with community partners including the Cleveland Public Library, the City Council's Clerk of Courts, and the City's Law Department to get a handle on what it will take to bring this tool to the greatest number of Clevelanders, understand what features are needed and how they can get involved, and enabling Clevelanders to better engage with their City government. 
 
 For more tech saavy and curious readers who interested in analyzing the plain text that we've extracted from PDFs, you can view the code that we've written to begin parsing and structuring the data that we've extracted from the city, 
 
