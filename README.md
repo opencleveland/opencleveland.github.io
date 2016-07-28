@@ -64,18 +64,6 @@ Your computer should now be serving your local copy of the site at:
 
 [http://0.0.0.0:4000](http://0.0.0.0:4000).
 
-### Sharing Your Changes Using Jekit
-
-You can use the nifty [Jekit](https://jekit.codeforamerica.org/) app to preview changes you make to this site.
-
-To do this, fork this repo, and commit your changes on a branch to your fork. You can then preview what your changes look like by navigating to:
-
-https://jekit.codeforamerica.org/USERNAME/opencleveland.github.io/BRANCHNAME/
-
-For a basic example of its usage, if GitHub user **@lolname** has made changes to the projects page on their fork (on the `master` branch), they can preview their changes using Jekit by going to:
-
-https://jekit.codeforamerica.org/lolname/opencleveland.github.io/master/projects
-
 ### Submitting a Pull Request
 
 1. Fork the project.
