@@ -45,7 +45,7 @@ Built using [Jekyll](http://jekyllrb.com/), [Bootstrap](http://getbootstrap.com/
 
 ### <a name="issues"></a>Submitting an Issue
 
-We use [GitHub Issues](https://github.com/) `//fix link` to track bugs and features. We've included several of our open GitHub Issues right on our homepage using the [Civic Tech Issue Finder](http://www.codeforamerica.org/geeks/civicissues).
+We use [GitHub Issues](https://guides.github.com/features/issues/) to track bugs and features. We've included several of our open GitHub Issues right on our homepage using the [Civic Tech Issue Finder](http://www.codeforamerica.org/geeks/civicissues).
 
 
 ### Running the Site Locally on Your Computer
@@ -63,18 +63,6 @@ or
 Your computer should now be serving your local copy of the site at:
 
 [http://0.0.0.0:4000](http://0.0.0.0:4000).
-
-### Sharing Your Changes Using Jekit
-
-You can use the nifty [Jekit](https://jekit.codeforamerica.org/) app to preview changes you make to this site.
-
-To do this, fork this repo, and commit your changes on a branch to your fork. You can then preview what your changes look like by navigating to:
-
-https://jekit.codeforamerica.org/USERNAME/sfbrigade.github.io/BRANCHNAME/ `fix link`
-
-For a basic example of its usage, if GitHub user **@lolname** has made changes to the projects page on their fork (on the `master` branch), they can preview their changes using Jekit by going to:
-
-https://jekit.codeforamerica.org/lolname/sfbrigade.github.io/master/projects
 
 ### Submitting a Pull Request
 
