@@ -43,5 +43,3 @@ prose:
           options:
             - name: "Open referral"
               value: "open-referral"
-gems:
-  - jekyll-redirect-from
