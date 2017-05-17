@@ -2,18 +2,17 @@
 layout: blog
 published: true
 categories: blog
-title: Open Cleveland busy month! 
-author: Will 
+title: April and May 2017 News for Open Cleveland
+author: Will Skora
 ---
 
-April and May has been a busy time for Open Cleveland and our partners here in Cleveland. Here's what happening and where we're going. 
+April and May has been a busy time for Open Cleveland and our collaborative partners here in Cleveland. Here's what happening and where we're going. 
 
-GCRTA, the Greater Cleveland Transit authority, released their (http://www.riderta.com/developers). 
+GCRTA, the Greater Cleveland Transit authority, released [data for the real-time locations of their buses and trains](http://www.riderta.com/developers) last week!
 
-The data includes real-time locations of buses and rails. The released time locations is the result of multiple years of efforts from RTA and encouragement by Open Cleveland
-and other advocates. 
+This is the first time includes the locations of buses and rails as they move! The released data is the result of multiple years of efforts from RTA and encouragement by Open Cleveland and other advocates. 
 
-Interested to delve more into the data and using RTA's data to improve service and make it easier for fellow Clevelanders to use the service and analyze RTA performance, or any other ideas with the data?   
+Interested to delve more into the data and using RTA's data to improve service and make it easier for fellow Clevelanders to use the RTA, analyze RTA buses if they arrive on schedule, measure coverage and frequency, or any other ideas with the data?   
 
 **Come to our [next hack night on Wednesday, May 24th, at 6:00 PM](https://www.meetup.com/open-cleveland/events/239193067/).**
 
