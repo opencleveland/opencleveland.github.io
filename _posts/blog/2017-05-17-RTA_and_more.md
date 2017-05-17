@@ -22,7 +22,9 @@ This week, Will S. will be representing Open Cleveland and fellow Open Cleveland
 
 Recap: CMHA, the area public housing authority, and Digital C held a [hackathon at CSU on April 7 & 8th](http://clehousinghack.org/) on improving access to Clevelanders in the Housing Choice Voucher program better select well-resourced neighborhoods that meet their needs 
 
-Lastly, Open Cleveland has been collaborating with [Hack Cleveland](http://hackcleveland.org/), [Open NEO](https://openneo.org/), [Digital C](http://digitalc.org/), [Case Urban Poverty Center](http://povertycenter.case.edu/), [Cleveland Co-Lab](http://www.clevelandcolab.com/) and [Cleveland City Councilman Brian Cummins](https://twitter.com/brianjcummins) on events including [Transparency Camp](http://www.opencleveland.org/blog/TCAMP-recap/) and DataDaysCLE ([great synopsis and video of DataDaysCLE](www.greatlakesgeek.com/events/2017/data-days-cle.htm) by Dan Hansen) over the past year. 
+Recap: DataDaysCLE, our inaugeral 3 day conference on data in Cleveland, was a success with all of our partners (listed below). Here's a [great synopsis and video of DataDaysCLE](www.greatlakesgeek.com/events/2017/data-days-cle.htm) by Dan Hansen
+
+Lastly, Open Cleveland has been collaborating with [Hack Cleveland](http://hackcleveland.org/), [Open NEO](https://openneo.org/), [Digital C](http://digitalc.org/), [Case Urban Poverty Center](http://povertycenter.case.edu/), [Cleveland Co-Lab](http://www.clevelandcolab.com/) and [Cleveland City Councilman Brian Cummins](https://twitter.com/brianjcummins) on events including [Transparency Camp](http://www.opencleveland.org/blog/TCAMP-recap/) and DataDaysCLE over the past year. 
 
 Collectively called the Cleveland Open Data & Civic Tech Collaborative, our organizations have been meeting to learn if and how we should formally organize and establish goals, and continue collaborating around our shared interests 
 of utilizing data and technology for the public good. 
