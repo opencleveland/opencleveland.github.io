@@ -14,7 +14,7 @@ For the first time, this includes the locations of buses and rapids as they move
 
 Interested in delving into RTA's data? Want to use it to improve service, make it easier for fellow Clevelanders to use the RTA, analyze if RTA buses arrive on schedule, measure coverage and frequency, or any other ideas with the data?   
 
-**Come to our [next hack night on Wednesday, May 24th, at 6:00 p.m.](https://www.meetup.com/open-cleveland/events/239193067/).**
+**Come to our [next hack night on Wednesday, May 24th, at 6:00 p.m.](https://www.meetup.com/open-cleveland/events/239193067/)**
 
 Need inspiration for how the RTA transit data can be used? The [awesome-transit guide](https://github.com/luqmaan/awesome-transit) has plenty of examples. The real-time bus data is in the [GTFS-RT specification](https://developers.google.com/transit/gtfs-realtime/).
 
