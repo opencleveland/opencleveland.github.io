@@ -23,14 +23,15 @@ Cities across the USA have dedicated websites (data portals) . Unfortunately, Cl
 **geospatial/geographic:**
 
 
-<https://github.com/skorasaurus/cleboundaries>
-*  collection of boundaries that Will from Open Cleveland manually georeferenced or individually obtained; 
+[https://github.com/skorasaurus/cleboundaries](https://github.com/skorasaurus/cleboundaries) 
+
+*  collection of spatial boundaries that Will Skora from Open Cleveland manually georeferenced or individually obtained; 
 City of Cleveland's police districts, wards, landmark districts, neighborhood boundaries. 
 
-<https://github.com/skorasaurus/dtparking>
-* downtown Cleveland car parking available to the public; Will from Open Cleveland manually surveyed this and keeps it relatively updated. Does not include parking meters. 
+[https://github.com/skorasaurus/dtparking](https://github.com/skorasaurus/dtparking)
+* downtown Cleveland car parking available to the public; Will Skora from Open Cleveland manually surveyed this and keeps it relatively updated. Does not include parking meters. 
 
-<http://gis.cuyahogacounty.us/> and <http://data-cuyahoga.opendata.arcgis.com/>
+<http://data-cuyahoga.opendata.arcgis.com/>
 * Cuyahoga County geospatial data (roads, railroads, addresses, parcels; natural resources)
 
 NeoCando:
@@ -43,16 +44,16 @@ NeoCando:
 
 RTA
 <http://www.riderta.com/developers>
-* Bus and subway routes and locations of stops
+..* Bus and subway routes and locations of stops; in GTFS format; 
 
 **Elections:**
 
-<http://boe.cuyahogacounty.us/>
+<http://boe.cuyahogacounty.us>
 :   campaign finance reports are available in PDF
 
 **Health:**
 
-<http://www.healthdatamatters.org/>
+<http://www.healthdatamatters.org>
 
 **Other:** 
 
@@ -61,12 +62,12 @@ Digital C's Civic Insights
 * Variety of topics; aggregated from city, county, state, and federal sources. 
 
 Cleveland's Open Data Census
-<http://us-city.census.okfn.org/place/cleveland> 
-* This is a list of 
+<http://us-city.census.okfn.org/place/cleveland>
+
 
 **For all of Ohio:**
 
-<http://ogrip.oit.ohio.gov/ 
+<http://ogrip.oit.ohio.go>
 * state-wide geographic data (roads, railroads, addresses, parcels)
 * may not be the most up to date, search the particular county's GIS website for an updated data set. 
 
