@@ -307,7 +307,7 @@ table h3 {
     bottom: 0;
 }
 
-.project-needs { margin-top: 20px;}
+.project-needs { visibility: hidden ;}
 
 .wide {
   width: 100%;
