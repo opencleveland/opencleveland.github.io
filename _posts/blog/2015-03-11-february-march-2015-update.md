@@ -6,7 +6,7 @@ categories: blog
 author: Paul Koepke
 ---
 
-## Getting Stated In Cleveland
+## Getting Started In Cleveland
 
 Since this is our first blog post, I’ll do a little history. Open Cleveland was founded in October 2014 with the goal of encouraging open data and helping local governments in Northeast Ohio better serve their residents through technology. We are a [Code for America brigade](http://www.codeforamerica.org).
 
