@@ -66,10 +66,12 @@ Northeast Ohio Areawide Coordinating Agency (NOACA)
 <h3>Weather:</h3>
 
 National Oceanic and Atmospheric Administration (NOAA)
+
 <https://data.noaa.gov/onestop/#/>
 * NOAA data search platform
 
 Former National Climatic Data Center (NCDC)
+
 <https://www.ncdc.noaa.gov/>
 * Climate and historical weather data and information
 * Now affiliated with NOAA
@@ -78,6 +80,7 @@ Former National Climatic Data Center (NCDC)
 <h3>Other:</h3> 
 
 Cleveland's Open Data Census
+
 <http://us-cities.survey.okfn.org/place/cleveland>
 
 
