@@ -43,11 +43,13 @@ NeoCando:
 
 <h3>Public Transportation:</h3>
 
-RTA
+**RTA**
+
 <http://www.riderta.com/developers>
 * Bus and subway routes and locations of stops; in GTFS format;
 
-Northeast Ohio Areawide Coordinating Agency (NOACA)
+**Northeast Ohio Areawide Coordinating Agency (NOACA)**
+
 <http://gis.noaca.org/Portal/>
 * Transportation and environmental planning agency serving Cuyahoga, Geauga, Lake, Lorain and Medina counties public data
 
@@ -65,12 +67,12 @@ Northeast Ohio Areawide Coordinating Agency (NOACA)
 
 <h3>Weather:</h3>
 
-National Oceanic and Atmospheric Administration (NOAA)
+**National Oceanic and Atmospheric Administration (NOAA)**
 
 <https://data.noaa.gov/onestop/#/>
 * NOAA data search platform
 
-Former National Climatic Data Center (NCDC)
+**Former National Climatic Data Center (NCDC)**
 
 <https://www.ncdc.noaa.gov/>
 * Climate and historical weather data and information
@@ -79,7 +81,7 @@ Former National Climatic Data Center (NCDC)
 
 <h3>Other:</h3> 
 
-Cleveland's Open Data Census
+**Cleveland's Open Data Census**
 
 <http://us-cities.survey.okfn.org/place/cleveland>
 
