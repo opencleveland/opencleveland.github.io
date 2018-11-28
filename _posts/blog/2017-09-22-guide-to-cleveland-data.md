@@ -33,6 +33,7 @@ City of Cleveland's police districts, wards, landmark districts, neighborhood bo
 * downtown Cleveland car parking available to the public; Will Skora from Open Cleveland manually surveyed this and keeps it relatively updated. Does not include parking meters.
 
 **Cuyahoga County Open Data**
+
 <http://data-cuyahoga.opendata.arcgis.com/>
 * Cuyahoga County geospatial data (roads, railroads, addresses, parcels; natural resources)
 
