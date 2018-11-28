@@ -32,6 +32,7 @@ City of Cleveland's police districts, wards, landmark districts, neighborhood bo
 [https://github.com/skorasaurus/dtparking](https://github.com/skorasaurus/dtparking)
 * downtown Cleveland car parking available to the public; Will Skora from Open Cleveland manually surveyed this and keeps it relatively updated. Does not include parking meters.
 
+**Cuyahoga County Open Data**
 <http://data-cuyahoga.opendata.arcgis.com/>
 * Cuyahoga County geospatial data (roads, railroads, addresses, parcels; natural resources)
 
@@ -82,7 +83,9 @@ City of Cleveland's police districts, wards, landmark districts, neighborhood bo
 
 <h3>For all of Ohio:</h3>
 
-<http://ogrip.oit.ohio.go>
+**Ohio Geographically Referenced Information Program (OGRIP)**
+
+<http://ogrip.oit.ohio.gov>
 * State-wide geographic data (roads, railroads, addresses, parcels)
 * May not be the most up to date, search the particular county's GIS website for an updated data set.
 
