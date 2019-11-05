@@ -7,6 +7,9 @@ excerpt: hardware traffic counter to measure quantity, speed of vehicles on road
 project: trafficcounter
 ---
 
+Update: Spring 2017: 
+**Project is not actively worked on . You are welcome to adopt this and lead this project. 
+
 [At TCAMP in October 2016](http://www.opencleveland.org/blog/TCAMP-recap/), a couple attendees discussed of how to measure the quantity, speeds, and types of vehicles traveling on a road. Building on work of http://tomorrow-lab.com/product23; they were 
 able to get a prototype working using an arduino. 
 
