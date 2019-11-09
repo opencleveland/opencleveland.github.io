@@ -2,7 +2,7 @@
 title: City Scrapers CLE
 layout: projects
 category: projects
-github_urls: https://city-bureau.github.io/city-scrapers-events-oh/
+github_urls: ['https://city-bureau.github.io/city-scrapers-events-oh/']
 excerpt: Scraping local govt websites of upcoming board and committee meetings 
 project: city-scrapers
 ---
@@ -10,7 +10,7 @@ project: city-scrapers
 The Cleveland Foundation [funded a Cleveland portion of City Scrapers](https://www.citybureau.org/notebook/2019/9/4/making-local-government-more-accessible-in-northeast-ohio), a project to 
 
 City Scrapers is a python-based webkit to scrape government and non-profit websites to find out when and where their board 
-meetings are held. City Scrapers is a compliment to the [Documenters](https://www.documenters.org/) (Documenters has not launched in Cleveland); a website that 
+meetings are held. City Scrapers is a compliment to the [Documenters](https://www.documenters.org/) (Documenters has not launched in Cleveland); a website that pays people to attend and report on what happens at a government agency board meeting. 
 
 ## Long Term Goals:
 * Determine how the public is using this and support it so that it can be used. 
