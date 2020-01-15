@@ -1,5 +1,5 @@
 ---
-title: Open Traffic Counter
+title: Open Traffic Counter (On Hold)
 layout: projects
 category: projects
 github_urls: 
@@ -7,11 +7,12 @@ excerpt: hardware traffic counter to measure quantity, speed of vehicles on road
 project: trafficcounter
 ---
 
-Update: Spring 2017: 
-**Project is not actively worked on . You are welcome to adopt this and lead this project. 
+**Update: Spring 2017: 
+This Project is not actively worked on. You are welcome to adopt this and lead this project.** 
 
 [At TCAMP in October 2016](http://www.opencleveland.org/blog/TCAMP-recap/), a couple attendees discussed of how to measure the quantity, speeds, and types of vehicles traveling on a road. Building on work of http://tomorrow-lab.com/product23; they were 
 able to get a prototype working using an arduino. 
+(Contact [Josh K](https://twitter.com/jkruszyn) for technical background on the project.
 
 ## Long Term Goals:
 
@@ -23,8 +24,6 @@ Eventually, the group hopes to make ready-to-use counters available through loca
 ### Where we are now: 
 
 * Working prototype available
-* 
-* 
 
 ### How you can help: 
 

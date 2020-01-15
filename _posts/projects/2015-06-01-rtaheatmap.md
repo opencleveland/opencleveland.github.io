@@ -1,5 +1,5 @@
 ---
-title: 
+title: RTA Heat Map (Complete)
 layout: projects
 category: projects
 github_urls: ['https://github.com/skorasaurus/RTAHeatMap/']
