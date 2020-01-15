@@ -2,13 +2,13 @@
 layout: blog
 published: true
 categories: blog
-title: A guide for local Cleveland open data
+title: A Guide to Local Cleveland Open Data
 author: Will Skora
 ---
 
-# A guide for local Cleveland open data
+# A Guide to Local Cleveland Open Data
 
-What is open civic data? Open Civic Data (generally just referred as Open Data) is quantative data about a municipality's functions, qualities, services, its people, and physical infrastructure. The [Sunlight Foundation](<https://sunlightfoundation.com/2013/09/16/your-guidelines-to-open-data-guidelines-pt-2-stages-of-development/) and [Open Knowledge International's Open Data Handbook](<http://opendatahandbook.org/guide/en/what-is-open-data/) are two sources that explain more.
+What is open civic data? Open Civic Data (generally just referred as Open Data) is quantative data about a municipality's functions, qualities, services, its people, and physical infrastructure. The [Sunlight Foundation](https://sunlightfoundation.com/2013/09/16/your-guidelines-to-open-data-guidelines-pt-2-stages-of-development/) and [Open Knowledge International's Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data/) are two sources that explain more.
 
 
 If you want to do anything useful with the data, the data has to be "open": able to be obtained freely and in bulk (no saving a file six hundred times) , "machine-readable" - in a file format that is friendly to work with and whose content can be deciphered by computer programs easily and to be legally able to use and share with minimal or no restrictions.
@@ -35,7 +35,7 @@ City of Cleveland's police districts, wards, landmark districts, neighborhood bo
 **Cuyahoga County Open Data**
 
 <http://data-cuyahoga.opendata.arcgis.com/>
-* Cuyahoga County geospatial data (roads, railroads, addresses, parcels; natural resources)
+* Cuyahoga County geospatial data (roads, railroads, addresses, parcels; natural resources like streams)
 
 **NeoCando**
 
