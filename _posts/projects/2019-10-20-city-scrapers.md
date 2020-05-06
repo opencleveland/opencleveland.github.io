@@ -29,11 +29,9 @@ If you'd like to add additional government entities (for example, a suburb's cou
 
 Open Cleveland is still figuring out what our role is in this project, how we could best help, and how this project can help the community. 
 
-We've also met with local 
-
 ### How you can help: 
 
-* Are you a journalist, community organizer, community activist: share with us whether [the calendar]((https://city-bureau.github.io/city-scrapers-events-oh/)) is useful for you and if so, how. What information would you like to obtain in a calendar like this? 
+* Are you a journalist, community organizer, community activist: share with us how [the calendar of government meetings](https://city-bureau.github.io/city-scrapers-events-oh/) is useful for you. What other information would you like to obtain in a calendar like this? 
 
 
 ### How to contact us: 
