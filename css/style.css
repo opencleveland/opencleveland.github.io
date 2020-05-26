@@ -102,7 +102,7 @@ table h3 {
 
 .jumbotron {
   margin-top: 50px;
-  background: rgba(0,0,0,0.44)
+  background: rgba(0, 0, 0, 0.44);
 }
 
 
@@ -321,7 +321,7 @@ h2.first {
   margin-top: 0;
 }
 
-.blog-text p {
+.blog-text * {
   font-size: 130%;
   line-height: 1.70;
   margin-bottom: 30px;
