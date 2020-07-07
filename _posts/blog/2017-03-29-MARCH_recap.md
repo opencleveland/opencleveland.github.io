@@ -7,47 +7,43 @@ author: Will
 ---
 Here's our notes from our most recent meeting/hack night on March 15, 2017. 
 
-
-
-What we're doing/Did: 
+## What we're doing/Did: 
 We're processing the [Campaign Finance Contributions of Cuyhoaga County](http://boe.cuyahogacounty.us/en-US/campaign-finance-reports.aspx)
 into open, machine-readable format. 
 
-Contributions to politicians in Cuyahoga County are available at http://boe.cuyahogacounty.us/en-US/campaign-finance-reports.aspx 
+These campaign contributions received by the politician can be used by the politican for their next election or re-election campaign including but not limited to: buying advertisements, purchase food for campaign and hiring consultants,
+[Campaign Finance contributions (and expenditures) to politicians in Cuyahoga County are available](http://boe.cuyahogacounty.us/en-US/campaign-finance-reports.aspx) 
 However, they are not [machine-readable](https://opengovdata.io/2014/analyzable-data-in-open-formats/) 
 and greatly impedes any analysis and research.  
 
-Open Cleveland its current status in a machine-readable format. 
-
-At our meeting on the 15th, we:
-OCR'ed the text from the PDFs using Acrobat, 
-then used Tabula (http://tabula.technology/) to extract the text from the PDFs and transform it into CSV files, 
-then uploaded the CSVs into google sheets which is flexible (and machine-readable), easily viewable, and
-lastly, reviewed each year's data with the original PDFs, correcting any spelling mistakes or formatting errors that were introduced in the ETL process. 
+*At our meeting on the 15th, we:*
+1. OCR'ed the text from the PDFs using Acrobat, 
+1. used Tabula (http://tabula.technology/) to extract the text from the PDFs and transformed them into CSV files, 
+1. then uploaded the CSVs into google sheets which is flexible (and machine-readable), easily viewable, and
+1. lastly, reviewed each year's data with the original PDFs, correcting any spelling mistakes or formatting errors that were introduced in the ETL process. 
 
 With the data in machine-readable format, You can begin to analyze and research the campaign contributions. Questions that can be answered with the data: How many people who live outside of Cleveland gave money to a particular politician ? Who are the biggest campaign contributors? How many PACs have given him money? Where do most of his donations come from? the west side? the south side? east side? 
 
-Frank Jackson's 2013-2016 Campaign Finance Contributions in Machine Readable format: 
+### Frank Jackson's 2013-2016 Campaign Finance Contributions in Machine Readable format: 
 
-Will added the 2013 documents; this does not include 2013_F_Jackson_SemiAnnual.pdf 
+2013: does not include 2013_F_Jackson_SemiAnnual.pdf 
 Available at: 
 https://docs.google.com/spreadsheets/d/11xJo1SIAeKdcikaVwf4eX56w44xBNqCWn4j_Z5kipg8/edit#gid=643476145
 
-Ron reviewed the 2014 entries and are available at 
+2014 entries and are available at 
 https://docs.google.com/spreadsheets/d/1qrbzsysJkC8-W9-mhVj2_mov365_BjkaoINUzSGuHIc/edit#gid=0
 
-Kevin and Rob reviewed the 2015 entries ; 
+2015:
 https://docs.google.com/spreadsheets/d/1fL6zdkw33xeKUlfiSeIS-qdDC6gpYQPvTTrBrVtFAVY/edit#gid=1499468696
 
-2016 needs to be reviewed
+2016:
 https://docs.google.com/spreadsheets/d/1yASJW3C-Dg4-klOAOIwrjzHVMsLKb-ETmULT9_9rrxU/edit#gid=1449833507
 
-(Want to help? Download the 2016 campaign finance reports for jackson, F at http://boe.cuyahogacounty.us/en-US/campaign-finance-reports.aspx  
-then compare each in the spreadsheet to the 
-(need more direction or help? email us at opencleveland@gmail.com)
+*(Want to help :*
+1. Email us at opencleveland@gmail.com
+http://boe.cuyahogacounty.us/en-US/campaign-finance-reports.aspx  
 
-Need to geocode (geocoding is the processing of taking addresses into longitude and latitude) which is needed for any geospatial analysis and to display locations on web maps? try https://geoservices.tamu.edu/ 
-(requiring free signup)
+Thanks to our this meeting's participants - Ron J, Kevin, Rob, and Will for assisting in this process! 
 
 Other news, data sources: 
 Ron J has access to data from the 29 rain stations that record how much rain falls (not sure if they also collect the winter precipitation) that's collected by the NEO Sewer District
