@@ -26,24 +26,24 @@ With the data in machine-readable format, You can begin to analyze and research 
 
 ### Frank Jackson's 2013-2016 Campaign Finance Contributions in Machine Readable format: 
 
-2013: does not include 2013_F_Jackson_SemiAnnual.pdf 
-Available at: 
-https://docs.google.com/spreadsheets/d/11xJo1SIAeKdcikaVwf4eX56w44xBNqCWn4j_Z5kipg8/edit#gid=643476145
+[2013 Campaign Finance Contributions for Frank Jackson](https://docs.google.com/spreadsheets/d/11xJo1SIAeKdcikaVwf4eX56w44xBNqCWn4j_Z5kipg8/edit#gid=643476145
+) (does not include 2013_F_Jackson_SemiAnnual.pdf)
 
-2014 entries and are available at 
-https://docs.google.com/spreadsheets/d/1qrbzsysJkC8-W9-mhVj2_mov365_BjkaoINUzSGuHIc/edit#gid=0
+[2014 Campaign Finance Contributions for Frank Jackson](https://docs.google.com/spreadsheets/d/1qrbzsysJkC8-W9-mhVj2_mov365_BjkaoINUzSGuHIc/edit#gid=0)
 
-2015:
-https://docs.google.com/spreadsheets/d/1fL6zdkw33xeKUlfiSeIS-qdDC6gpYQPvTTrBrVtFAVY/edit#gid=1499468696
+[2015 Campaign Finance Contributions for Frank Jackson](https://docs.google.com/spreadsheets/d/1fL6zdkw33xeKUlfiSeIS-qdDC6gpYQPvTTrBrVtFAVY/edit#gid=1499468696)
 
-2016:
-https://docs.google.com/spreadsheets/d/1yASJW3C-Dg4-klOAOIwrjzHVMsLKb-ETmULT9_9rrxU/edit#gid=1449833507
+[2016 Campaign Finance Contributions for Frank Jackson](https://docs.google.com/spreadsheets/d/1yASJW3C-Dg4-klOAOIwrjzHVMsLKb-ETmULT9_9rrxU/edit#gid=1449833507)
 
-*(Want to help :*
+**Want to help :**
 1. Email us at opencleveland@gmail.com
+
+You
 http://boe.cuyahogacounty.us/en-US/campaign-finance-reports.aspx  
 
 Thanks to our this meeting's participants - Ron J, Kevin, Rob, and Will for assisting in this process! 
+
+Additional campaign contributions to Cuyahoga county politicians are available at the [Cuyahoga County board of elections](http://boe.cuyahogacounty.us/en-US/campaign-finance-reports.aspx)
 
 Other news, data sources: 
 Ron J has access to data from the 29 rain stations that record how much rain falls (not sure if they also collect the winter precipitation) that's collected by the NEO Sewer District
