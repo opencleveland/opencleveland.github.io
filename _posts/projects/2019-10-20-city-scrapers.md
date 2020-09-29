@@ -33,7 +33,7 @@ The great folks at City Bureau [have written scrapers for over 80 governmental o
 
 If and the code and structure of a city government changes, our scraper will need to be updated. 
 
-The Documenters program is planning to begin sending 'reporters' to meetings in September. 
+The Documenters program is planning to begin sending 'reporters' to meetings in October. 
 
 ### How you can help:
 
