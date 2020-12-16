@@ -33,17 +33,22 @@ The great folks at City Bureau [have written scrapers for over 80 governmental o
 
 If and the code and structure of a city government changes, our scraper will need to be updated. 
 
-"As of August 3rd, Neighbor Up has hired a Cleveland Documenter Field Coordinator, and officially begun the Cleveland Documenters pilot year. Lawrence Daniel Caswell is the new Cleveland Documenter Field Coordinator. He can be reached at lcaswell@neighborhoodgrants.orgor (216) 361-9149‬ (call or text).
+Neighbor Up has hired a Cleveland Documenter Field Coordinator, and officially begun the Cleveland Documenters pilot year. Lawrence Daniel Caswell is the new Cleveland Documenter Field Coordinator. He can be reached at lcaswell@neighborhoodgrants.org or (216) 361-9149‬ (call or text).
 
-The Documenters program is planning to begin sending 'reporters' to meetings in October. 
+The Documenters started to send 'reporters' to meeting at the end of October. 
+
+*[Read their reporting of local government meetings](https://cleveland.documenters.org/reporting/)*. 
+
 
 ### How you can help:
 
 * Python developers: 
-Check out [the library](https://cityscrapers.org/docs/development/#) and learn how to add other government entities (for example, a suburb's council meetings) to City Scrapers. 
+Check out [the library](https://cityscrapers.org/docs/development/#) that describes how the the technical aspects behind City SCrapers as well as how to add other government entities or agencies (for example, a suburb's council meetings) to City Scrapers. 
 
-* JournalistS, community organizers, community activists: 
-share with us how [the calendar of government meetings](https://city-bureau.github.io/city-scrapers-events-oh/) is useful for you. What other information would you like to see in a calendar like this? 
+* Update one of the [the scrapers listed on our github](https://github.com/City-Bureau/city-scrapers-cle). 
+
+* Journalists, community organizers, community activists: 
+- share with us how [the calendar of government meetings](https://city-bureau.github.io/city-scrapers-events-oh/) is useful for you. What other information would you like to see in a calendar like this? 
 
 
 ### How to contact us: 
