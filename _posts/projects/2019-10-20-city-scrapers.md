@@ -39,6 +39,7 @@ The Documenters started to send 'reporters' to meeting at the end of October.
 
 *[Read their reporting of local government meetings](https://cleveland.documenters.org/reporting/)*. 
 
+
 ### How you can help:
 
 * Python developers: 
@@ -47,7 +48,7 @@ Check out [the library](https://cityscrapers.org/docs/development/#) that descri
 * Update one of the [the scrapers listed on our github](https://github.com/City-Bureau/city-scrapers-cle). 
 
 * Journalists, community organizers, community activists: 
-share with us how [the calendar of government meetings](https://city-bureau.github.io/city-scrapers-events-oh/) is useful for you. What other information would you like to see in a calendar like this? 
+- share with us how [the calendar of government meetings](https://city-bureau.github.io/city-scrapers-events-oh/) is useful for you. What other information would you like to see in a calendar like this? 
 
 
 ### How to contact us: 
