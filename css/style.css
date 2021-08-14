@@ -348,3 +348,18 @@ h2.first {
 	height: 2em;
 	font-size:1em;
 }
+
+dt {
+  margin-top: 1.75em;
+  margin-bottom: .5em;
+}
+
+/* */
+#maincontent > p {
+margin-top: 1em;
+}
+
+.faq__question--detail {
+  font-style: italic;
+  font-size: .85em;
+}
