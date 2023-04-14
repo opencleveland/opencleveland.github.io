@@ -19,7 +19,7 @@ Refund Cleveland designed to:
 - Provide people with the opportunity to see the difference between their budget priorities and their city government’s priorities
 - Share their proposed budget with the public and their councilperson
 
-Visit refundcleveland.com ; 
+Visit [https://refundcleveland.com](refundcleveland.com). 
 
 Thank you to all of the advocates and partner organizations who’ve supported our project including [PB Cleveland](https://www.pbcle.com); [Cleveland Documenters](https://cleveland.documenters.org), and Black Lives Matters Cleveland.
 
