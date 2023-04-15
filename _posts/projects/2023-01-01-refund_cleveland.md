@@ -3,7 +3,7 @@ title: Refund Cleveland
 layout: projects
 category: projects
 github_urls: ['https://github.com/opencleveland/refundcleveland']
-excerpt: Provide a map of lots available for purchase under the Cleveland Land Bank development program.
+excerpt: A website for residents to adjust the proposed city budget to their priorities 
 project: refundcleveland
 ---
 
