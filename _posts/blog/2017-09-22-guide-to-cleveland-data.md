@@ -13,14 +13,13 @@ What is open civic data? Open Civic Data (generally just referred as Open Data) 
 
 If you want to do anything useful with the data, the data has to be "open": able to be obtained freely and in bulk (no saving a file six hundred times) , "machine-readable" - in a file format that is friendly to work with and whose content can be deciphered by computer programs easily and to be legally able to use and share with minimal or no restrictions.
 
-
-When we want data about our city, where do we start? First, ASK the agency that you think would have the data (Advice on that in a later post).
+<strong> When we want data about our city, where do we start? First, ASK the agency that you think would have the data </strong> (Advice on that in a later post).
 
 
 [The US Census](https://www.census.gov/data.html) is a comprehensive source of data about our city specifically on our population and demographics.
 
 
-Cities across the USA have dedicated websites (data portals). Unfortunately, Cleveland doesn't have one. In this absence, different entities have aggregated or collected this data or perhaps the govt agency that produces or acts as a steward for this data may publish it themselves.
+Some cities across the USA have dedicated websites (data portals). Cleveland doesn't have one yet. In this absence, different entities have aggregated or collected this data or perhaps the govt agency that produces or acts as a steward for this data may publish it themselves.
 
 
 <h3>geospatial/geographic:</h3>
@@ -30,11 +29,11 @@ Cities across the USA have dedicated websites (data portals). Unfortunately, Cle
 City of Cleveland's police districts, wards, landmark districts, neighborhood boundaries.
 
 [https://github.com/skorasaurus/dtparking](https://github.com/skorasaurus/dtparking)
-* downtown Cleveland car parking available to the public; Will Skora from Open Cleveland manually surveyed this and keeps it relatively updated. Does not include parking meters.
+* downtown Cleveland car parking available to the public; Will Skora from Open Cleveland and the OpenStreetMap community create and maintain it. It does not include curbside parking. 
 
 **Cuyahoga County Open Data**
 
-<http://data-cuyahoga.opendata.arcgis.com/>
+<https://data-cuyahoga.opendata.arcgis.com/>
 * Cuyahoga County geospatial data (roads, railroads, addresses, parcels; natural resources like streams)
 
 **NeoCando**
@@ -53,7 +52,7 @@ City of Cleveland's police districts, wards, landmark districts, neighborhood bo
 
 **Northeast Ohio Areawide Coordinating Agency (NOACA)**
 
-<http://gis.noaca.org/Portal/>
+<https://gis.noaca.org/Portal/>
 * Data on Transportation, Freight on highways, Bicycle Infrastructure, and Urban Planning
 * Data Accessible by clicking on pie-chart icon on right side of screen
 
@@ -62,24 +61,19 @@ City of Cleveland's police districts, wards, landmark districts, neighborhood bo
 
 **Cuyahoga County Board of Elections**
 
-<http://boe.cuyahogacounty.us>
+<https://boe.cuyahogacounty.us>
 * Campaign finance reports available in PDF format
 
 
 <h3>Health:</h3>
 
-**Health Data Matters**
+**Healthy NEO**
 
-<http://www.healthdatamatters.org>
+<https://www.healthyneo.org>
 * Health data for Cleveland and Cuyahoga county
 
 
 <h3>Other:</h3>
-
-**Cleveland's Open Data Census**
-
-<http://us-cities.survey.okfn.org/place/cleveland>
-* A census describing the status of assorted public datasets in municipalities across the United States and where Cleveland ranks
 
 
 <h3>For all of Ohio:</h3>
