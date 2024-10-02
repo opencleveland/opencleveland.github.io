@@ -19,14 +19,14 @@ If you want to do anything useful with the data, the data has to be "open": able
 [The US Census](https://www.census.gov/data.html) is a comprehensive source of data about our city specifically on our population and demographics.
 
 
-Some cities across the USA have dedicated websites (data portals). Cleveland doesn't have one yet. In this absence, different entities have aggregated or collected this data or perhaps the govt agency that produces or acts as a steward for this data may publish it themselves.
+Some cities across the USA have dedicated websites (data portals). [Cleveland](https://data.clevelandohio.gov/) got one in 2024 and can be your first stop to look! Then, check out the different entities listed who have have aggregated or collected data or acts as a steward for this data and may publish it themselves.
 
 
 <h3>geospatial/geographic:</h3>
 
-[https://github.com/skorasaurus/cleboundaries](https://github.com/skorasaurus/cleboundaries)
-*  collection of spatial boundaries that Will Skora from Open Cleveland manually georeferenced or individually obtained;
-City of Cleveland's police districts, wards, landmark districts, neighborhood boundaries.
+[https://data.clevelandohio.gov/](https://data.clevelandohio.gov/)
+* The official City of Cleveland Data Portal. Launched in April 2024, the data portal is the most comprehensive source of data in the City of Cleveland and includes [Visualizations and Dashboards](https://data.clevelandohio.gov/pages/apps-maps) are available as well as the actual raw [datasets](https://data.clevelandohio.gov/search?collection=Dataset).
+
 
 [https://github.com/skorasaurus/dtparking](https://github.com/skorasaurus/dtparking)
 * downtown Cleveland car parking available to the public; Will Skora from Open Cleveland and the OpenStreetMap community create and maintain it. It does not include curbside parking. 
@@ -39,7 +39,7 @@ City of Cleveland's police districts, wards, landmark districts, neighborhood bo
 **NeoCando**
 
 <http://neocando.case.edu/>
-* Demographics, crime, property data, census for cuyahoga county; also property transactions; the most comprehensive source of civic data in Cleveland/Cuyahoga County
+* Demographics, crime, property data, census information for cuyahoga county; also property transactions
 * Requires registration
 
 
